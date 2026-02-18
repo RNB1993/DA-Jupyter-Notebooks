@@ -78,6 +78,15 @@ Advanced text analysis techniques for data analytics
 -   Working with textual data in DataFrames
 -   Sentiment analysis on reviews
 
+### 🤖 [Machine Learning](./Machine%20Learning/)
+
+Introduction to machine learning algorithms with scikit-learn
+
+-   Linear regression for continuous prediction
+-   Logistic regression for binary classification
+-   Model training and evaluation
+-   Hands-on implementation exercises
+-   Pipeline-based modeling with real datasets
 ### ���🚀 [Streamlit](./Streamlit/)
 
 Building interactive web apps with Streamlit
@@ -178,8 +187,9 @@ See [requirements.txt](./requirements.txt) for the complete list of dependencies
 6. **Go interactive with** [Plotly](./Plotly/) - Dynamic charts
 7. **Query with** [SQL](./SQL/) - Database operations
 8. **Analyze text with** [Text Analysis](./Advanced%20Data%20Analysis%20Techniques/) - Text data processing
-9. **Build apps with** [Streamlit](./Streamlit/) - Share your work
-10. **Speed up with** [Data Wrangler](./Data%20Wrangler/) - Visual data cleaning
+9. **Learn ML with** [Machine Learning](./Machine%20Learning/) - Linear models and classification
+10. **Build apps with** [Streamlit](./Streamlit/) - Share your work
+11. **Speed up with** [Data Wrangler](./Data%20Wrangler/) - Visual data cleaning
 
 ## 📧 Contact
 
